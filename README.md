@@ -1,7 +1,11 @@
 ### URL shortener
 
 Test trigger
+
 anotherline
+
+line 2 
+
 Another URL shoterner app.
 
 This is an example of using [Sanic](https://github.com/channelcat/sanic) with [asyncpg](https://github.com/MagicStack/asyncpg) - a fast PostgreSQL client lib for asyncio.
